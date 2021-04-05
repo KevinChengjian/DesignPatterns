@@ -41,7 +41,7 @@ class Singleton
      *
      * @return $this
      */
-    public function getInstance(): Singleton
+    public static function getInstance(): Singleton
     {
         $staticClass = static::class;
 
