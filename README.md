@@ -11,7 +11,7 @@
 ### 2. Bridge
 ### 3. Composite
 ### 4. Decorator
-### 5. Facade
+### 5. FacadeSingleton
 ### 6. Flyweight
 ### 7. Proxy
 
