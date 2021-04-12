@@ -85,7 +85,12 @@ class ConcreteProductB implements Product
 }
 
 
-// 测试
+/**
+ * 测试
+ *
+ * @param Creator $creator
+ * @return mixed
+ */
 function test(Creator $creator)
 {
     return $creator->someOperation();
